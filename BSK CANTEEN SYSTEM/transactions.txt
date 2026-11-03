@@ -1,0 +1,49 @@
+Ang943Bi,Deposit,30000,2025-03-04 11:38
+Car422An,Deposit,10000,2025-03-04 11:47
+Car422An,Purchase,4500,2025-03-04 11:49,Apple x3; Chapati x2
+Lo2162Ly,Deletion,2025-03-04 18:38,Account Deleted
+Leo308Dy,Deposit,5000.0,2025-03-04 20:08
+Leo308Dy,Purchase,1000.0,2025-03-04 20:09,Apple x2
+Leo308Dy,Deposit,2000,2025-03-04 21:49
+Leo308Dy,Deletion,2025-03-04 21:50,Account Deleted
+Ton436Bz,Deposit,7000,2025-03-05 11:04
+Ton436Bz,Purchase,500,2025-03-11 19:57,Apple x1
+Car422An,Purchase,7000,2025-03-11 22:00,Coffee x2
+Car422An,Purchase,1000,2025-03-11 22:06,Soda x1
+Ang943Bi,Purchase,5000,2025-03-11 22:15,Chips x3; Splash x2
+Ang943Bi,Purchase,7500,2025-03-11 22:23,Apple x5; Juice x5
+Ang943Bi,Purchase,4000,2025-03-12 07:08,Soda x4
+Ang943Bi,Purchase,1500,2025-03-12 07:10,Chapati x1
+Ca1252Zi,Purchase,500,2025-03-12 08:11,Apple x1
+Ben830Si,Deposit,1000,2025-03-12 12:20
+Ben830Si,Deposit,20000,2025-03-12 12:21
+Bre142Er,Deposit,3000,2025-03-13 19:29
+Cla252Zi,Deposit,400,2025-03-13 19:36
+Ben830Si,Purchase,3500,2025-03-14 09:49,Chocolate bar x1; Juice x2; Chapati x1; Coffee x1
+Ben830Si,Purchase,500,2025-03-14 09:50,Coffee x2; Apple x1
+Ben830Si,Purchase,5000,2025-03-14 12:20,Banana x2; Splash x2
+Ben830Si,Purchase,1500,2025-03-15 08:29,Apple x500; Juice x1
+Ben830Si,Purchase,5000,2025-03-15 08:53,Banana x2; Rolex x1
+Ben830Si,Purchase,500,2025-03-15 17:14,Apple x1
+Ben830Si,Purchase,1000,2025-03-15 17:16,Apple x1
+Ben830Si,Purchase,1500,2025-03-15 17:17,Apple x1
+Ben830Si,Purchase,500,2025-03-15 17:17,Apple x1
+Ben830Si,Purchase,500,2025-03-15 17:19,Apple x1
+Ben830Si,Deposit,50000,2025-03-15 17:20
+Ben830Si,Purchase,5000,2025-03-15 17:20,Apple x1; Chapati x3
+Ben830Si,Purchase,10500,2025-03-15 17:30,Juice x2; Splash x3
+Ben830Si,Purchase,20500,2025-03-15 17:31,Coffee x2; Water bottle x3
+Ben830Si,Purchase,7000,2025-03-15 17:32,Coffee x2
+Ben830Si,Purchase,5000,2025-03-15 17:33,Apple x10
+Ben830Si,Purchase,3000,2025-03-15 17:35,Banana x3
+Ben830Si,Deposit,46000,2025-03-15 17:39
+Ben830Si,Purchase,7000,2025-03-15 17:39,Coffee x2
+Ben830Si,Purchase,1000,2025-03-15 17:41,Apple x2
+Ben830Si,Purchase,500,2025-03-15 17:41,Apple x1
+Ben830Si,Purchase,1000,2025-03-15 17:42,Apple x2
+Ben830Si,Purchase,2000,2025-03-15 17:43,Apple x4
+Big354Il,Deletion,0 UGX,2025-03-15 18:11,Account Deleted
+Lol951Ny,Deletion,0 UGX,2025-03-16 17:16,Account Deleted
+Ben830Si,Purchase,5500,2025-03-17 18:28,Apple x3; Chips x2
+Cla588Ga,Deposit,50000,2025-08-05 19:41
+Cla588Ga,Purchase,5000,2025-08-05 19:43,Apple x2; Chapati x2; Water bottle x1

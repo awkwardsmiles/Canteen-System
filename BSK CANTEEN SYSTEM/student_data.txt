@@ -1,0 +1,11 @@
+StudentID,Name,Balance
+Cla252Zi,clara,2374
+Ca1252Zi,caitlin,2481
+Ton436Bz,tonny,6500
+Ang943Bi,angie,16997
+Bre142Er,brett,5000
+Car422An,carl,2500
+Ben830Si,benjamin,29500
+Act169Oy,acte,0
+Rho399Bo,rhoda,0
+Cla588Ga,clany,45000
